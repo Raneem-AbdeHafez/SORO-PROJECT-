@@ -44,7 +44,7 @@ Control a NAO robot using an Xbox controller with smooth movement, speech, and e
 2. Set your robot IP in the ip_init.py script:
 
    ```python
-   NAO_IP = "your.nao.ip.here"
+   IP = "your.nao.ip.here"
    ```
 3. Plug in the Xbox controller
 4. Run:
